@@ -13,7 +13,8 @@ games or movies
 
 ## Preview
 
-![Preview of page](https://lh3.googleusercontent.com/pw/AMWts8CPtQs4Sstr3dvZRnYHz5f342ad0ubEa2pAOfw9bRrKlGPrkMdKp9ITCDCJtGKcpIj4-ptBVy51izfzvNxI9C4VUuePa09m7-TbrmwVXDwfrtxx__pn8RJpEgEm9RXGl_Et8GTo0F-U8NU-pDuyd44cLA=w456-h1103-s-no?authuser=0)
+<img src="https://lh3.googleusercontent.com/pw/AMWts8CPtQs4Sstr3dvZRnYHz5f342ad0ubEa2pAOfw9bRrKlGPrkMdKp9ITCDCJtGKcpIj4-ptBVy51izfzvNxI9C4VUuePa09m7-TbrmwVXDwfrtxx__pn8RJpEgEm9RXGl_Et8GTo0F-U8NU-pDuyd44cLA=w456-h1103-s-no?authuser=0" alt="Preview of page" height="800">
+
 
 ## License
 
